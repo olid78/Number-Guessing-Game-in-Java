@@ -1,8 +1,1 @@
-🎮 Example Gameplay
-Guess a number :
-> 50
-Too low, try again!
-> 75
-Too high, try again!
-> 63
-Congratulations! You guessed the correct number.
+A simple yet fun number guessing game built with Java! Enter your guess and see if you can match the secret number.
